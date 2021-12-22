@@ -50,9 +50,13 @@ You can use **The Deck** as a spellcasting focus as long as you have one hand fr
 
 Some effects of **The Deck** will require you to roll a **Fate Die**. This starts off as a d4, but it will grow over time.
 
+### Pocket Aces
+
+At the start of a long rest/day you may draw one card from the deck which grants you temporary access to a spell which counts as a pact magic warlock spell. You may cast this spell until your next long rest. Alternatively, you can choose to discard the card and lose access to the spell in order to cast the spell without expending a spell slot.
+
 ## Twist of Fate
 
-Reading the tarot cards gives you glimpses into the future. When you finish a long rest, you can take a peak at the top three cards of the deck. If a _minor arcana_ card is inverted, you can choose to take 1 fate die of psychic damage to revert the card to its normal orientation. If a _marjor arcana_ card is inverted, you can choose to roll 1 fate die to see how many fate dice of damage you must take in order to revert the card to its normal orientation.
+Reading the tarot cards gives you glimpses into the future. When you finish a long rest, you can take a peak at the top three cards of the deck (after optionally drawing a card for **Pocket Aces**). If a _minor arcana_ card is inverted, you can choose to take 1 fate die of psychic damage to revert the card to its normal orientation. If a _marjor arcana_ card is inverted, you can choose to roll 1 fate die to see how many fate dice of damage you must take in order to revert the card to its normal orientation.
 
 ## Tempt Fate
 
@@ -62,14 +66,12 @@ When you hit an enemy with eldritch blast you can choose to **Tempt Fate** and d
 
 Once per short rest after drawing a card from the Deck you can choose to draw a second card. After learning the effects of both cards you may choose which effect takes place. If you ever draw two black cards they both take effect.
 
-## Potential Future Features
-
 ### The Debt Always Comes Due
 
-Every time you cheat fate the effect goes into a buffer. The next time you are critically hit with an attack the effects occur.
+Every time you cheat fate the effect goes into a buffer. The next time you are critically hit with an attack, **all of the buffered cards take effect**. The buffer empties when you take a long rest and the deck is reshuffled.
 
-### Card Up Your Sleeve
+## Potential Future Features
 
-At the end of a long rest you can draw three cards from the Deck and pick one to use when tempting fate or something.
-
-### Put a card back in the deck
+- A mechanism to return a single card to the deck?
+- A way to discard an extra card to get advantage on an eldritch blast
+- Using cards on other spells that target a creature?
