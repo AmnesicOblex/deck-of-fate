@@ -60,7 +60,7 @@ When you finish a long rest, you may draw one card from the deck which grants yo
 
 ## Twist of Fate
 
-Reading the tarot cards gives you glimpses into the future. When you finish a long rest, you can take a peak at the top three cards of the deck (after optionally drawing a card for **Pocket Aces**). If a _minor arcana_ card is inverted, you can choose to take 1 fate die of psychic damage to revert the card to its normal orientation. If a _marjor arcana_ card is inverted, you can choose to roll 1 fate die to see how many fate dice of damage you must take in order to revert the card to its normal orientation.
+Reading the tarot cards gives you glimpses into the future. When you finish a long rest, you can take a peak at the top three cards of the deck (after optionally drawing a card for **Pocket Aces**). If a _minor arcana_ card is inverted, you can choose to take 1 fate die of psychic damage to revert the card to its normal orientation. If a _major arcana_ card is inverted, you can choose to roll 1 fate die to see how many fate dice of damage you must take in order to revert the card to its normal orientation.
 
 ## Tempt Fate
 
