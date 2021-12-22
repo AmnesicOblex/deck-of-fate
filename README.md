@@ -1,8 +1,8 @@
 # The Deck of Fate
 
-_Wondrous item, artifact (requires atunement)_
+_Wondrous item, artifact (requires attunement)_
 
-**_Disclaimer: This magical artefact/patron is super homebrewed so it may be unbalanced. If necessary nerfs and/or buffs will be implemented to try to balance it._**
+**_Disclaimer: This magical artifact/patron is super homebrewed so it may be unbalanced. If necessary nerfs and/or buffs will be implemented to try to balance it._**
 
 **The Deck of Fate** is a deck of 56 cards that appear to make up the low deck or _minor arcana_ of a traditional tarot deck. Tarot cards are pagan fortune telling devices native to Centerra. The high deck or _major arcana_ is made up another 22 cards which appear to be missing from this set. The cards are old and worn. The paper is thin and stiff. The art is faded and the embossed card backs are cracked. Additionally the faces of 6 cards have been blackened and burnt beyond recognition. You can tell by the process of elimination that the missing cards are as follows:
 
@@ -27,7 +27,7 @@ Some effects of **The Deck** will require you to roll a **Fate Die**. This start
 
 ## Twist of Fate
 
-Reading the tarot cards gives you glimpses into the future. When you finish a long rest, you can take a peak at the top three cards of the deck. If a Minor Arcana card is inverted, you can choose to take 1 fate die of psychic damage to revert the card to its normal orientation. If a Major Arcana card is inverted, you can choose to roll 1 fate die to see how many fate dice of damage you must take in order to revert the card to its normal orienttation.
+Reading the tarot cards gives you glimpses into the future. When you finish a long rest, you can take a peak at the top three cards of the deck. If a Minor Arcana card is inverted, you can choose to take 1 fate die of psychic damage to revert the card to its normal orientation. If a Major Arcana card is inverted, you can choose to roll 1 fate die to see how many fate dice of damage you must take in order to revert the card to its normal orientation.
 
 ## Tempt Fate
 
