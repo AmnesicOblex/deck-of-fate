@@ -31,7 +31,7 @@ Reading the tarot cards gives you glimpses into the future. When you finish a lo
 
 ## Tempt Fate
 
-When you cast eldritch blast you can choose to **Tempt Fate** and draw a card from **The Deck of Fate** as a bonus action. The drawn card will modify the effects of the spell. Fate can be a cruel mistress so these effects may hurt you as often as they help you. If you ever draw a black card you will take 1 fate die of psychic damage. Any effects with durations will usually last for 1 fate die rounds or in some cases 1 fate die hours.
+When you hit an enemy with eldritch blast you can choose to **Tempt Fate** and draw a card from **The Deck of Fate** as a bonus action. The drawn card will modify the effects of the spell. Fate can be a cruel mistress so these effects may hurt you as often as they help you. If you ever draw a black card you will take 1 fate die of psychic damage. Any effects with durations will usually last for 1 fate die rounds or in some cases 1 fate die hours.
 
 ## Cheat Fate
 
