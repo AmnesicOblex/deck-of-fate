@@ -35,7 +35,7 @@ When you hit an enemy with eldritch blast you can choose to **Tempt Fate** and d
 
 ## Cheat Fate
 
-Once per long rest after drawing a card from the Deck you can choose to draw a second card. After learning the effects of both cards you may choose which effect takes place. If you ever draw two black cards they both take effect.
+Once per short rest after drawing a card from the Deck you can choose to draw a second card. After learning the effects of both cards you may choose which effect takes place. If you ever draw two black cards they both take effect.
 
 ## Potential Future Features
 
@@ -43,6 +43,6 @@ Once per long rest after drawing a card from the Deck you can choose to draw a s
 
 Every time you cheat fate the effect goes into a buffer. The next time you are critically hit with an attack the effects occur.
 
-### Pocket Aces
+### Card Up Your Sleeve
 
 At the end of a long rest you can draw three cards from the Deck and pick one to use when tempting fate or something.
