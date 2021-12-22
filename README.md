@@ -52,7 +52,7 @@ Some effects of **The Deck** will require you to roll a **Fate Die**. This start
 
 ## Pocket Aces
 
-At the start of a long rest/day you may draw one card from the deck which grants you temporary access to a spell which counts as a pact magic warlock spell. You may cast this spell until your next long rest. Alternatively, you can choose to discard the card and lose access to the spell in order to cast the spell without expending a spell slot.
+When you finish a long rest, you may draw one card from the deck which grants you temporary access to a spell which counts as a pact magic warlock spell. You may cast this spell until your next long rest. Alternatively, you can choose to discard the card and lose access to the spell in order to cast the spell without expending a spell slot.
 
 ## Twist of Fate
 
