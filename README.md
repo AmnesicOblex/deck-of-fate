@@ -50,7 +50,7 @@ You can use **The Deck** as a spellcasting focus as long as you have one hand fr
 
 Some effects of **The Deck** will require you to roll a **Fate Die**. This starts off as a d4, but it will grow over time.
 
-### Pocket Aces
+## Pocket Aces
 
 At the start of a long rest/day you may draw one card from the deck which grants you temporary access to a spell which counts as a pact magic warlock spell. You may cast this spell until your next long rest. Alternatively, you can choose to discard the card and lose access to the spell in order to cast the spell without expending a spell slot.
 
