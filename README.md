@@ -46,6 +46,10 @@ You have also begun finding cards from the _major arcana_:
 
 You can use **The Deck** as a spellcasting focus as long as you have one hand free to interact with **The Deck**.
 
+## Discarding Cards
+
+Almost any time you discard a card from **The Deck**, it will be removed from your draw pile until your next long rest.
+
 ## Fate Die
 
 Some effects of **The Deck** will require you to roll a **Fate Die**. This starts off as a d4, but it will grow over time.
@@ -72,6 +76,6 @@ Every time you cheat fate the effect goes into a buffer. The next time you are c
 
 ## Potential Future Features
 
-- A mechanism to return a single card to the deck?
-- A way to discard an extra card to get advantage on an eldritch blast
+- A mechanism to return a single card to the deck, possibly during a short rest?
+- A way to discard an extra card to get advantage/reroll/inspiration on an eldritch blast?
 - Using cards on other spells that target a creature?
