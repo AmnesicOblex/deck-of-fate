@@ -13,6 +13,31 @@ _Wondrous item, artifact (requires attunement)_
 - The Knight of Swords
 - The King of Swords
 
+You have also begun finding cards from the _major arcana_:
+
+- [ ] 0 - The Fool
+- [x] 1 - The Magician
+- [ ] 2 - The High Priestess
+- [ ] 3 - The Empress
+- [ ] 4 - The Emperor
+- [ ] 5 - The Hierophant
+- [ ] 6 - The Lovers
+- [ ] 7 - The Chariot
+- [ ] 8 - Strength
+- [ ] 9 - The Hermit
+- [ ] 10 - Wheel of Fortune
+- [ ] 11 - Justice
+- [ ] 12 - The Hanged Man
+- [ ] 13 - Death
+- [ ] 14 - Temperance
+- [ ] 15 - The Devil
+- [ ] 16 - The Tower
+- [ ] 17 - The Star
+- [ ] 18 - The Moon
+- [ ] 19 - The Sun
+- [ ] 20 - Judgement
+- [ ] 21 - The World
+
 ## Lore
 
 **The Deck** is damaged and divided and subsequently has only a fraction of the power it once had. As your bond with the Deck grows and you make any repairs or restorations you may unlock additional features.
@@ -46,3 +71,5 @@ Every time you cheat fate the effect goes into a buffer. The next time you are c
 ### Card Up Your Sleeve
 
 At the end of a long rest you can draw three cards from the Deck and pick one to use when tempting fate or something.
+
+### Put a card back in the deck
