@@ -27,9 +27,7 @@ Some effects of **The Deck** will require you to roll a **Fate Die**. This start
 
 ## Twist of Fate
 
-Reading the tarot cards gives you glimpses into the future. When you finish a long rest, roll one d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so _before_ the roll, and you can replace a roll in this way only once per turn.
-
-Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
+Reading the tarot cards gives you glimpses into the future. When you finish a long rest, you can take a peak at the top three cards of the deck. If a Minor Arcana card is inverted, you can choose to take 1 fate die of psychic damage to revert the card to its normal orientation. If a Major Arcana card is inverted, you can choose to roll 1 fate die to see how many fate dice of damage you must take in order to revert the card to its normal orienttation.
 
 ## Tempt Fate
 
