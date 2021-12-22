@@ -13,11 +13,11 @@ _Wondrous item, artifact (requires attunement)_
 - The Knight of Swords
 - The King of Swords
 
-## Features
+## Lore
 
 **The Deck** is damaged and divided and subsequently has only a fraction of the power it once had. As your bond with the Deck grows and you make any repairs or restorations you may unlock additional features.
 
-### Spellcasting Focus
+## Spellcasting Focus
 
 You can use **The Deck** as a spellcasting focus as long as you have one hand free to interact with **The Deck**.
 
